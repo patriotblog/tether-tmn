@@ -1,0 +1,9 @@
+{
+   "symbol": [
+      "USDTTMN_WALLEX"
+   ],
+   "pricescale": [100000],
+   "description": [
+      "Tether over TMN Price"
+   ]
+}
